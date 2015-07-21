@@ -1,0 +1,5 @@
+Aesthetic change for whack a mole:
+
+The aim was to create a sense of urgency and rapid gameplay. 
+The placement of a timer would mean that the player has to hit the moles as quickly as possible to get a higher score. 
+The movement of the sun across the screen would reinforce this feeling along with a countdown clock for emphasis.
